@@ -1,2 +1,2 @@
 This is the GitHub repository where my website (kingofevryfing.com) files are saved for anyone to use if you want.
-I coded it all myself, didn't copy and paste any of it from anywhere else but i did look to others for inspiration.
+I coded it all myself, didn't copy and paste any code from anywhere else but i did look to others for inspiration.
