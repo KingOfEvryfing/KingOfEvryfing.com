@@ -1,0 +1,38 @@
+body {
+    background-image: url(stars.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a {
+    color: white;
+}
+h1 {
+    color: grey;
+}
+.content_holder {
+    h1{
+        color: black;
+    }
+    background-color: grey;
+    width: 650px;
+    max-width: 100%;
+    border-style: groove;
+    border-width: 5px;
+    border-color: black;
+    margin: auto;
+    color: black;
+}
+.return {
+    font-size: 22px;
+    background-color: grey;
+    width: 100px;
+    max-width: 100%;
+    border-style: groove;
+    border-width: 5px;
+    border-color: black;
+    margin: auto;
+    color: black;
+
+}
